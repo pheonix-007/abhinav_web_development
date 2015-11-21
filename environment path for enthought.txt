@@ -1,0 +1,1 @@
+c:\users\abhi\appdata\local\enthought\canopy\user\scripts;C:\Users\ABHI\AppData\Local\Enthought\Canopy\User;C:\Users\ABHI\AppData\Local\Enthought\Canopy\User\Scripts;
